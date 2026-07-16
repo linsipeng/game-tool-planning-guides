@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Nuzlocke Route-Change Reproduction
 ---
 
 # Nuzlocke Route-Change Reproduction

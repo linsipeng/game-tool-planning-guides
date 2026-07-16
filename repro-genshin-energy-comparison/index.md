@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Genshin Energy-Constrained Build Reproduction
 ---
 
 # Genshin Energy-Constrained Build Reproduction

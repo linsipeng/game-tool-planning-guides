@@ -1,5 +1,6 @@
 ---
 layout: default
+title: HSR Reserve-Ceiling Reproduction
 ---
 
 # HSR Reserve-Ceiling Reproduction

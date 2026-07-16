@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Minecraft Image Transparency Reproduction
 ---
 
 # Minecraft Image Transparency Reproduction

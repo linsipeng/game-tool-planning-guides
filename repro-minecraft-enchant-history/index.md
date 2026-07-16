@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Minecraft Enchantment Prior-Work Reproduction
 ---
 
 # Minecraft Enchantment Prior-Work Reproduction
